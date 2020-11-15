@@ -5540,6 +5540,22 @@ num2fraction@^1.2.2:
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
 
+nuxt-start@^2.14.7:
+  version "2.14.7"
+  resolved "https://registry.yarnpkg.com/nuxt-start/-/nuxt-start-2.14.7.tgz#2995bf0f0751cbb7619d04e51de41b5839b30780"
+  integrity sha512-9OpbdM0IbM1JcDp0JCRYIHZhJTXaIDa00u+k+36Hc7uNBYzRYJ88BuINdEuu0Dexz+HM31U8GuDmxWvNeecNBQ==
+  dependencies:
+    "@nuxt/cli" "2.14.7"
+    "@nuxt/core" "2.14.7"
+    "@nuxt/telemetry" "^1.2.3"
+    node-fetch "^2.6.1"
+    vue "^2.6.12"
+    vue-client-only "^2.0.0"
+    vue-meta "^2.4.0"
+    vue-no-ssr "^1.1.1"
+    vue-router "^3.4.6"
+    vuex "^3.5.1"
+
 nuxt-vue-select@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/nuxt-vue-select/-/nuxt-vue-select-0.1.4.tgz#773ad2ef78902b440f9b5766d9cc73f103f083b2"
