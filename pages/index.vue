@@ -191,7 +191,7 @@
             next date
           </button>
         </div>
-        <!-- END PAGINATOR -->
+        <!-- END PAGINATR -->
       </div>
     </div>
   </div>
